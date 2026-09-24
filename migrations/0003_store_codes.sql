@@ -1,0 +1,13 @@
+update merchants set code = 'STFOODA1' where code = 'STFOODA';
+update merchants set code = 'STFOODB1' where code = 'STFOODB';
+update merchants set code = 'STFOODC1' where code = 'STFOODC';
+update merchants set code = 'STFOODD1' where code = 'STFOODD';
+update merchants set code = 'STSERVA1' where code = 'STSERVA';
+update merchants set code = 'STSERVB1' where code = 'STSERVB';
+update merchants set code = 'STSERVC1' where code = 'STSERVC';
+update merchants set code = 'STSHOPA1' where code = 'STSHOPA';
+update merchants set code = 'STSHOPB1' where code = 'STSHOPB';
+update merchants set code = 'STELECA1' where code = 'STELECA';
+update merchants set code = 'STELECB1' where code = 'STELECB';
+update merchants set code = 'STDAYLA1' where code = 'STDAYLA';
+update merchants set code = 'STDAYLB1' where code = 'STDAYLB';

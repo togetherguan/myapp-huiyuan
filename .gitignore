@@ -1,0 +1,37 @@
+node_modules/
+.data/
+.vercel/
+dist/
+.output/
+.nitro/
+.tanstack/
+screenshots/
+artifacts/
+*.log
+.env
+.env.*
+.DS_Store
+
+.node_modules.lock
+.project_id
+.grok/status
+.grok/favicon-qc.html
+.grok/favicon-qc.png
+
+# sandbox agent notes, not the app
+AGENTS.md
+.grok/skills/
+.grok/references/
+.grok/og-pending
+
+# Android / Capacitor build output
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/captures/
+android/.idea/
+*.apk
+*.aab
+.idea/
+*.iml
